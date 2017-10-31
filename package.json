@@ -1,0 +1,12 @@
+{
+  "name": "targetdiscovery",
+  "version": "1.0.0",
+  "description": "Discovers Node instances and publishes them as subtargets",
+  "main": "discovery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": { "ws": "3.2.x" }
+}
